@@ -1,4 +1,5 @@
-# Hi there, I'm Paria 👋
+<h1 align="center">Hi there, I'm Paria Khalafi </a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
 ## 🧬 PhD Student in Molecular Biology  
 I am a PhD researcher at **LCBM, EPFL**, working in the lab of **Prof. Beat Fierz**.
