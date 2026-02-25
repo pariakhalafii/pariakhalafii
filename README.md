@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Paria 👋
 
-<!--
-**pariakhalafii/pariakhalafii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 PhD Student in Molecular Biology  
+I am a PhD researcher at **LCBM, EPFL**, working in the lab of **Prof. Beat Fierz**.
 
-Here are some ideas to get you started:
+My research focuses on the molecular mechanisms of **Polycomb-mediated gene repression**, with a particular emphasis on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 PRC1–chromatin interactions  
+- 🔬 H2A ubiquitylation (H2Aub)  
+- 🧬 Chromatin compaction and transcription factor accessibility  
+
+Using biochemical reconstitution and single-molecule approaches, I investigate how PRC1 establishes and propagate repressive chromatin states.
+
+---
+
+### 🔎 Research Interests
+- Epigenetic regulation  
+- Chromatin structure & dynamics  
+- Single-molecule biophysics  
+
+---
+
+### 📫 How to reach me
+📧 [Paria.khalafi@epfl.ch](mailto:Paria.khalafi@epfl.ch)
